@@ -15,4 +15,5 @@
 ## Resources
 
 * [How I learned to stop worrying and love the state machine](http://raganwald.com/2018/02/23/forde.html)
+* [Reflections on SM](http://raganwald.com/2018/03/03/reflections.html)
 * [The rise of the state machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)
